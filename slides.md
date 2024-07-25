@@ -156,7 +156,7 @@ Examples:
 - Acquiring a language = developing new habits.
 - Make it a part of your life.
 - Your target language must become a part of your life.
-- 1 hours per day is better than 10 hours once a week.
+- 1 hour per day is better than 10 hours once a week.
 
 ---
 
@@ -171,3 +171,5 @@ Examples:
 ---
 
 ### Thanks for watching!
+
+Slides are available here: <https://github.com/scriptin/effective-input-slides>
