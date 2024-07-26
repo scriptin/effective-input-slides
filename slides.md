@@ -16,29 +16,25 @@ What makes "comprehensible input" method effective and efficient?
 - **Natural order hypothesis**: language is acquired in a particular order, and that this order does not change between learners, and is not affected by explicit instruction.
 - **Affective filter hypothesis**: learners' ability to acquire language is constrained if they are experiencing negative emotions such as fear or embarrassment.
 
-### Corollaries
-
-- Talking (output) is not practicing.
-- When enough comprehensible input is provided, i+1 is present.
-- The teaching order is not based on the natural order.
+<https://en.wikipedia.org/wiki/Input_hypothesis>
 
 ---
 
 ## Comprehensible input method
 
-- Watching videos in your target languages.
-- Listening to podcasts...
-- Reading books...
+- Watching videos in your target language,
+- Listening to podcasts,
+- Reading books, etc.
 
 ---
 
-## A big limitation
+## Limitations
 
 Language skills classification:
 
-- **Recognition**: ability to comprehend spoken and written langauge
-- **Production**: speaking and writing
-- **Translation/interpretation**
+- **Recognition**: ability to comprehend spoken and written langauge.
+- **Production**: speaking and writing.
+- **Translation/interpretation**, etc.
 
 ### Comprehensible input focuses on recognition
 
@@ -48,8 +44,9 @@ Production skills will still develop passively, lagging behind recognition skill
 
 ## Importance of recognition skills
 
-- In most cases, flawless grammar is not that important.
+- In the beginning, flawless grammar is not that important.
 - Comprehension is more important than speaking.
+- Vocabulary is important at any level.
 - Best way to develop passive vocabulary is input.
 
 ---
@@ -70,10 +67,10 @@ Production skills will still develop passively, lagging behind recognition skill
 
 ### (Partially) comprehensible
 
-- Directly: you understand the language
-- Indirectly, via a side-channel: you understand the context
+- Directly: you understand the language.
+- Indirectly, via a side-channel: you understand the context.
 
-How much should I understand?
+#### How much should I understand?
 
 - I can't give you an exact number.
 - The more you understand, the easier it is.
@@ -98,21 +95,24 @@ How much should I understand?
 - Not easy
 - Not too hard
 
-My problem with many apps for language learning: **too easy!**
+My problem with many apps for language learning: **"too easy!"**
+
 ---
 
 ## Traits of Effective Input
 
 ### High volume
 
-- Hundreds of hours for languages similar to ones you already know
-- Thousands of hours for dissimilar languages
+- Hundreds of hours for languages similar to ones you already know.
+- Thousands of hours for dissimilar languages.
 
 #### My experience
 
-- ~8-12 months of English -> from B1 to C1
-- 1 year of Spanish (300-500 hours) -> B1 in tests, B2 in comprehension
-- 300 hours of German -> A1/A2 level
+- ~8-12 months of English -> from B1 to C1.
+- 1 year of Spanish (300-500 hours) -> B1 in tests, B2 in comprehension.
+- 300 hours of German -> A1/A2 level.
+
+(Levels are in Common European Framework of Reference for Languages (CEFR).)
 
 ---
 
@@ -125,8 +125,8 @@ My problem with many apps for language learning: **too easy!**
 
 Examples:
 
-- Reading book series (e.g. Harry Potter)
-- Watching the same YouTube channel
+- Reading book series (e.g. Harry Potter).
+- Watching the same YouTube channel for a long time.
 
 #### Spaced repetition
 
@@ -162,11 +162,11 @@ Examples:
 
 ## Closing thoughts
 
-- Input should be your priority
-  - especially when you start
-  - throughout your journey
+- Input should be your priority:
+  - especially when you start.
+  - throughout your journey.
 - It has limitations:
-  - to get good at speaking and writing, you'll have to practice those
+  - to get good at speaking and writing, you'll have to practice those.
 
 ---
 
