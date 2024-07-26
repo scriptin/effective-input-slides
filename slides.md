@@ -10,11 +10,25 @@ What makes "comprehensible input" method effective and efficient?
 
 ## Stephen Krashen's hypotheses
 
-- **Input hypothesis**: learners progress in their knowledge of the language when they comprehend language input that is slightly more advanced than their current level. Krashen called this level of input "i+1", where "i" is the learner's interlanguage and "+1" is the next stage of language acquisition.
-- **Acquisition–learning hypothesis**: there is a strict separation between (subconscious) acquisition and (conscious, explicit) learning; Krashen claimed that improvement in language ability was only dependent upon acquisition and never on learning.
-- **Monitor hypothesis**: consciously learned language can only be used to monitor language output, but never the source of spontaneous speech.
-- **Natural order hypothesis**: language is acquired in a particular order, and that this order does not change between learners, and is not affected by explicit instruction.
-- **Affective filter hypothesis**: learners' ability to acquire language is constrained if they are experiencing negative emotions such as fear or embarrassment.
+### Input hypothesis
+
+> Learners progress in their knowledge of the language when they comprehend 
+> language input that is slightly more advanced than their current level. 
+> Krashen called this level of input "i+1", where "i" is the learner's 
+> interlanguage and "+1" is the next stage of language acquisition.
+
+### Acquisition–learning hypothesis
+
+> There is a strict separation between (subconscious) acquisition 
+> and (conscious, explicit) learning; Krashen claimed that improvement 
+> in language ability was only dependent upon acquisition and never on learning.
+
+### Monitor hypothesis (...)
+
+### Natural order hypothesis (...)
+
+### Affective filter hypothesis (...)
+
 
 <https://en.wikipedia.org/wiki/Input_hypothesis>
 
@@ -57,7 +71,7 @@ Production skills will still develop passively, lagging behind recognition skill
 - Compelling
 - Challenging
 - High volume
-- Repetitive (in different contexts)
+- Repetitive (in various contexts)
 - Multi-modal
 - Consistent practice
 
@@ -118,7 +132,7 @@ My problem with many apps for language learning: **"too easy!"**
 
 ## Traits of Effective Input
 
-### Repetitive (in different contexts)
+### Repetitive (in various contexts)
 
 - Watching/listening/reading similar material improves comprehensibility.
 - Doesn't mean you need to consume the same content over and over.
@@ -128,11 +142,11 @@ Examples:
 - Reading book series (e.g. Harry Potter).
 - Watching the same YouTube channel for a long time.
 
-#### Spaced repetition
+#### Spaced repetition (SR) / flashcards
 
-- You don't need SRS (Anki, etc.) for high-frequency vocabulary.
-- Yet, SRS works for many people - good addition to input.
-- Sentence mining is better that just words.
+- You don't need SR apps (e.g. Anki) or flashcards for high-frequency vocabulary.
+- Yet, SR works for many people - good addition to input.
+- "Sentence mining" is better than just words.
 
 ---
 
@@ -140,7 +154,11 @@ Examples:
 
 ### Multi-modal
 
-Watching, reading, and listening the same material (at the same time or separately).
+By "modalities" I mean:
+
+- reading
+- listening
+- watching
 
 Examples:
 
@@ -155,18 +173,24 @@ Examples:
 
 - Acquiring a language = developing new habits.
 - Make it a part of your life.
-- Your target language must become a part of your life.
+- Language is not a trophy, it's a tool.
 - 1 hour per day is better than 10 hours once a week.
 
 ---
 
-## Closing thoughts
+## Summary
 
-- Input should be your priority:
-  - especially when you start.
-  - throughout your journey.
-- It has limitations:
-  - to get good at speaking and writing, you'll have to practice those.
+- (Partially) comprehensible
+- Compelling
+- Challenging
+- High volume
+- Repetitive (in various contexts)
+- Multi-modal
+- Consistent practice
+
+Input should be your priority:
+- especially when you start.
+- throughout your journey.
 
 ---
 
