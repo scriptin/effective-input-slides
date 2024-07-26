@@ -26,7 +26,7 @@ What makes "comprehensible input" method effective and efficient?
 
 ## Comprehensible input method
 
-- Watching vidoes in your target languages.
+- Watching videos in your target languages.
 - Listening to podcasts...
 - Reading books...
 
@@ -71,14 +71,14 @@ Production skills will still develop passively, lagging behind recognition skill
 ### (Partially) comprehensible
 
 - Directly: you understand the language
-- Indereclty, via a side-channel: you understand the context
+- Indirectly, via a side-channel: you understand the context
 
 How much should I understand?
 
 - I can't give you an exact number.
 - The more you understand, the easier it is.
 - Sometimes easy is good.
-- Challanging yourself is required to progress.
+- Challenging yourself is required to progress.
 
 ---
 
@@ -120,7 +120,7 @@ My problem with many apps for language learning: **too easy!**
 
 ### Repetitive (in different contexts)
 
-- Watching/listening/reading similar material improves comprehesibility.
+- Watching/listening/reading similar material improves comprehensibility.
 - Doesn't mean you need to consume the same content over and over.
 
 Examples:
@@ -144,7 +144,7 @@ Watching, reading, and listening the same material (at the same time or separate
 
 Examples:
 
-- Reading a book, than listening to its audiobook version.
+- Reading a book, then listening to its audiobook version.
 - Watching a video with subtitles (not translated).
 
 ---
